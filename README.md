@@ -7,8 +7,8 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+You have finally discovered my Github profile, I was waiting for you! <br>
+Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
 <i>Happy Coding!</i> 🚀😊
 </br>
@@ -20,12 +20,12 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
-<div align="left">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=felippegh" alt="felippegh" />
 </div>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
   <p align="right">
 
@@ -36,6 +36,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 - 📫 Also, you may send a nice letter to **felippegeorge@utexas.edu**
 
 </p>
+<br>
+<br>
+<br>
 <br>
 <br>
 
