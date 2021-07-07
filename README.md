@@ -24,7 +24,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <br>
 
-  <p align="right">
+  <div>
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/felippegh?tab=repositories)
 
@@ -32,10 +32,13 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 - 📫 Also, you may send a nice letter to **felippegeorge@utexas.edu**
 
-</p>
+</div>
 <br>
 <br>
 <br>
+<br>
+<br>
+</br>
 </br>
 </br>
 </br>
