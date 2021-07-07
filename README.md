@@ -41,6 +41,8 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <details>
 <summary>How about some stats?</summary>
@@ -80,12 +82,12 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <div align="center">
 <h3>Technologies and Tools I use</h3> 
     
-<a href="https://laravel.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" alt="laravel" width="45" height="45"/> </a> 
-<a href="https://php.com" target="_blank"> <img src="https://cpng.pikpng.com/pngl/s/160-1603662_aol-logo-transparent-icone-php-png-clipart.png" alt="postman" width="45" height="45"/> </a> 
+<a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/> </a> 
+<a href="https://php.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://postgres.com" target="_blank"> <img src="https://icon-library.com/images/postgres-icon/postgres-icon-7.jpg" alt="postgres" width="45" height="45"/> </a>   
+    <a href="https://postgres.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/> </a>   
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -93,6 +95,8 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+       <a href="https://vscode.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
+       <a href="https://phpstorm.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="45" height="45"/> </a>
    
 </div>
 
