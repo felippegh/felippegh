@@ -58,15 +58,6 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </p>
 </details>
 
-
-
-<div align="center">
-
-<br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
-
 <div align="center">
 <h3>Where to find me</h3>
 <p>
@@ -100,10 +91,8 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
    
 </div>
 
-
 <br>
 <div align="center">
-<h3>Support:</h3>
+<h3>Support</h3>
 <p><a href="https://www.buymeacoffee.com/felippegh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
 </div>
-
