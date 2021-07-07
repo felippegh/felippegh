@@ -20,7 +20,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
-<div align="right">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=felippegh" alt="felippegh" />
 </div>
 </br>
@@ -36,32 +36,28 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 - 📫 Also, you may send a nice letter to **felippegeorge@utexas.edu**
 
 </p>
-
-
+<br>
+<br>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=felippegh&show_icons=true" alt="felippegh" />
  </p>
 
-
-
-
-
 <div align="center">
 
-</br>
+<br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 
-
+<div align="center">
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/felippegh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.instagram.com/felippegh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
-
+</div>
 
 <br/>
 <h3 align="center">
