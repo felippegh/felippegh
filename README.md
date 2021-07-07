@@ -36,14 +36,13 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-
+</br>
+</br>
+</br>
+</br>
 <div>
 <details>
-<summary>How about some stats?
+<summary align="left">How about some stats?
 <img align="right" src="https://komarev.com/ghpvc/?username=felippegh" alt="felippegh" />
 </summary>
 <p align="center">
