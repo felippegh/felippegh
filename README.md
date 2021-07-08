@@ -61,19 +61,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </p>
 </details>
 </div>
-
-<div align="center">
-<h3>Where to find me</h3>
-<p>
-<a href="https://github.com/felippegh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/felippegh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-</p>
-</div>
-
 <br/>
-
-
 <div align="center">
 <h3>Technologies and Tools I use</h3> 
     
@@ -94,6 +82,21 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
        <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" alt="phpstorm" width="45" height="45"/> </a>
    
 </div>
+<br/>
+<br/>
+
+<div align="center">
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/felippegh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/felippegh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+</p>
+</div>
+
+
+
+
 
 <br>
 <div align="center">
