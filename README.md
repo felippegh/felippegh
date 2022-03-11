@@ -90,13 +90,3 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <a href="https://www.instagram.com/felippegh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
 </div>
-
-
-
-
-
-<br>
-<div align="center">
-<h3>Support</h3>
-<p><a href="https://www.buymeacoffee.com/felippegh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
-</div>
