@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Felippe </h1>
-<h3 align="center">A passionate Software Developer  from Brazil <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h3 align="center">A curious Software Developer  from Brazil <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
 <div align="center">
 
