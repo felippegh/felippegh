@@ -31,7 +31,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 - 💬 Ask me about anything <a href="https://github.com/felippegh/felippegh/issues/new"><b>here</b></a>
 
-- 📫 Also, you may send a nice letter to **felippegeorge@utexas.edu**
+- 📫 Also, you may send a nice letter to **felippehaeitmann@gmail.com**
 
 </div>
 <br>
